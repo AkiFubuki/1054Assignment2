@@ -1,0 +1,76 @@
+
+    body {
+        font-family: 'Alkatra', system-ui;
+        background-color: rgb(133, 178, 255);
+        margin: 0;
+        padding: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: auto;
+    }
+
+    .container {
+        margin-top:20px;
+        width: 1080px;
+        padding: 30px;
+        background-color: #e2e2e2;
+        border-radius: 12px;
+        box-shadow: 0 8px 18px rgba(0, 0, 0, 0.1);
+        text-align: center;
+    }
+    .lyrics {
+        width: 720px;
+        margin: 180px;
+        margin-top:20px;
+        background-color: #ffffff;
+        border-radius: 12px;
+        box-shadow: 0 8px 18px rgba(0, 0, 0, 0.1);
+        text-align: center;
+    }
+
+    .divider{
+        background-color: yellow;
+        border-radius: 18px;
+        border-color: black;
+        
+    }
+    h1 {
+        font-size: 56px;
+        color: #333;
+        text-align: center;
+        font-family: 'Honk', system-ui;
+        
+    }
+
+    p {
+        margin-top:20px;
+        font-size: 16px;
+        color: #000000;
+        line-height: 2.0;
+    }
+    .special-december{
+        color:purple;
+        font-size: 22px;
+    }
+    .rose-red{
+        color:rgb(221, 0, 0);
+    }
+    .red-word{
+        color: red;
+        font-size:22px;
+        font-family: 'Protest Revolution', sans-serif;
+    }
+    .orange-word{
+        color:rgb(255, 196, 0);
+    }
+    .gold-word{
+        color: rgb(175, 103, 2);
+    }
+    .blue-word{
+        color: rgb(0, 136, 226);
+    }
+    .yellow-word{
+        color:rgba(231, 27, 211, 0.89);
+    }
+
